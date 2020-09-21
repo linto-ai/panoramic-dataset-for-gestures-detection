@@ -10,7 +10,6 @@ Our repository is made up of the following files:
 
 
 .
-├── data
 
 │   ├── Annotations
 
