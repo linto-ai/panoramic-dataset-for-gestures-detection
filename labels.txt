@@ -1,0 +1,4 @@
+person
+voting
+speaking
+
