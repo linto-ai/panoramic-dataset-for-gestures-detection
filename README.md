@@ -6,7 +6,7 @@ In addition, this database contains annotations of gestures, such as speaking, v
 
 The database note format is [VocPascal](https://medium.com/towards-artificial-intelligence/understanding-coco-and-pascal-voc-annotations-for-object-detection-bb8ffbbb36e3)
 
-Our repository is made up of the following files:
+Our VocPascal repository is made up of the following files:
 
 
 .
