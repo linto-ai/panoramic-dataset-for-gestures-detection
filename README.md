@@ -11,13 +11,13 @@ Our VocPascal repository is made up of the following files:
 ```
 .
 
-│   ├── Annotations  (1496 `.xml`)
+│   ├── Annotations  (1496 .xml)
 
 │   ├── ImageSets    # Contain four Main/*.txt which split the dataset
 
 │   │   └── Main    
 
-│   └── JPEGImages (1496 `.jpg`)
+│   └── JPEGImages (1496 .jpg)
 
 ```
 
