@@ -8,18 +8,17 @@
 
 * Our VocPascal repository is made up of the following files:
 
-```
-.
+ ```
+ .
 
-│   ├── Annotations  (1496 .xml)
+ │   ├── Annotations  (1496 .xml)
 
-│   ├── ImageSets    # Contain four Main/*.txt which split the dataset
+ │   ├── ImageSets    # Contain four Main/*.txt which split the dataset
 
-│   │   └── Main    
+ │   │   └── Main    
 
-│   └── JPEGImages (1496 .jpg)
-
-```
+ │   └── JPEGImages (1496 .jpg)
+ ```
 
 All labels are annotated by [LabelImage](https://github.com/tzutalin/labelImg)
 
@@ -112,5 +111,4 @@ All labels are annotated by [LabelImage](https://github.com/tzutalin/labelImg)
 		</bndbox>
 	</object>
  </annotation>
-
  ```
