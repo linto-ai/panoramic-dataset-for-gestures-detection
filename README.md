@@ -11,13 +11,14 @@ Our VocPascal repository is made up of the following files:
 ```
 .
 
-│   ├── Annotations
+│   ├── Annotations  (1496 `.xml`)
 
-│   ├── ImageSets
+│   ├── ImageSets    # Contain four Main/*.txt which split the dataset
 
-│   │   └── Main
+│   │   └── Main    
 
-│   └── JPEGImages
+│   └── JPEGImages (1496 `.jpg`)
+
 ```
 
 All labels are annotated by [LabelImage](https://github.com/tzutalin/labelImg)
