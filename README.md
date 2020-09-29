@@ -4,7 +4,7 @@
 
 * In addition, this database contains annotations of gestures, such as speaking, voting.
 
-The database note format is [VocPascal](https://medium.com/towards-artificial-intelligence/understanding-coco-and-pascal-voc-annotations-for-object-detection-bb8ffbbb36e3)
+* The database note format is [VocPascal](https://medium.com/towards-artificial-intelligence/understanding-coco-and-pascal-voc-annotations-for-object-detection-bb8ffbbb36e3)
 
 * Our VocPascal repository is made up of the following files:
 
@@ -25,8 +25,8 @@ All labels are annotated by [LabelImage](https://github.com/tzutalin/labelImg)
 
 * The `Annotations` : The VOC format `.xml` for Object Detection, automatically generate by the label tools. Below is an example of `.xml` file.
 
-```xml
-<annotation>
+ ```xml
+ <annotation>
 	<folder>data</folder>
 	<filename>frame0.jpg</filename>
 	<path>/home/ons/conf_data/data/frame0.jpg</path>
@@ -111,6 +111,6 @@ All labels are annotated by [LabelImage](https://github.com/tzutalin/labelImg)
 			<ymax>440</ymax>
 		</bndbox>
 	</object>
-</annotation>
+ </annotation>
 
-```
+ ```
