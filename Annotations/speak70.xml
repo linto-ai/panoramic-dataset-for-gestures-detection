@@ -1,7 +1,7 @@
 <annotation>
 	<folder>data</folder>
 	<filename>speak70.jpg</filename>
-	<path>/home/linagora/Desktop/new_data_linagora/speaking/data/speak70.jpg</path>
+	<path>/home/linagora/Desktop/new_data_linagora/hand_up/data/speak70.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>speaking</name>
+		<name>hand_up</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>speaking</name>
+		<name>hand_up</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>speaking</name>
+		<name>hand_up</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>speaking</name>
+		<name>hand_up</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

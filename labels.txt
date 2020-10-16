@@ -1,4 +1,4 @@
 person
 voting
-speaking
+hand_up
 
