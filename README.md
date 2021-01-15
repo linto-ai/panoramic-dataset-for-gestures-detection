@@ -1,6 +1,6 @@
 # Panoramic_Database
 
-* This database contains 1496 annotated panoramic images of work meetings at LINAGORA.
+* This database contains 2085 annotated panoramic images of work meetings at LINAGORA.
 
 * In addition, this database contains annotations of gestures, such as hand_up, voting.
 
@@ -11,13 +11,13 @@
  ```
  .
 
- │   ├── Annotations  (1496 .xml)
+ │   ├── Annotations  (2085 .xml)
 
  │   ├── ImageSets    # Contain four Main/*.txt which split the dataset
 
  │   │   └── Main    
 
- │   └── JPEGImages (1496 .jpg)
+ │   └── JPEGImages (2085 .jpg)
  ```
 
 All labels are annotated by [LabelImage](https://github.com/tzutalin/labelImg)
