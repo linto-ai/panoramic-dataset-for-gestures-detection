@@ -1,10 +1,10 @@
 # Panoramic_Dataset
 
-* This database contains 2085 annotated panoramic images of work meetings at LINAGORA.
+* This dataset contains 2085 annotated panoramic images of work meetings at LINAGORA.
 
 * In addition, this database contains annotations of person's gestures, such as speaking, voting.
 
-* The database note format is [VocPascal](https://medium.com/towards-artificial-intelligence/understanding-coco-and-pascal-voc-annotations-for-object-detection-bb8ffbbb36e3)
+* The dataste note format is [VocPascal](https://medium.com/towards-artificial-intelligence/understanding-coco-and-pascal-voc-annotations-for-object-detection-bb8ffbbb36e3)
 
 * Our VocPascal repository is made up of the following files:
 
